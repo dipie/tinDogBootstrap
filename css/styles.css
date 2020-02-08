@@ -1,0 +1,110 @@
+#title{
+    background-color:#fe346e;
+}
+
+h1{
+    font-family: 'Montserrat-Black', sans-serif;
+        font-size: 3rem;
+    line-height: 1.5;
+    color: azure;
+}
+
+.dog-img{
+    transform: rotate(25deg);
+    width: 55%;
+    position: absolute;
+}
+.container-fluid{
+    padding: 3% 15% 10%;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.navbar{
+    padding: 2rem 0rem;    
+}
+.nav-item{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+    
+}
+.nav-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    color: #fff;
+    padding: 0;
+}
+
+a{
+    color: #fff;
+    padding: 0;
+    font-weight: bold;
+}
+
+.brand{
+    color: #fff;
+}
+
+/* features section */
+
+
+
+#features{
+    padding: 7 15%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.features-box{
+    text-align: center;
+    padding: 4.5;
+}
+
+p{
+    color: #758184;
+    text-align: center;
+    line-height: 2;
+    padding-bottom:30% ;
+}
+
+h3{
+    font-family: 'Montserrat-Black', sans-serif;
+    line-height: 2;
+   
+}
+
+.icon-color{
+    color: #ec7373;
+   padding-top: 30%;
+}
+
+.icon-color:hover{
+    color: brown;
+}
+
+  
+/* testimonials */
+
+#testimonials{
+    padding: 15%;
+    text-align: center;
+    background-color: #fa877f;
+    color: #fff;
+    
+}
+
+h2{
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-display: Bold;
+    font-size: xx-large;
+    line-height: 1.5;
+}
+
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+  margin: 20px;
+}
